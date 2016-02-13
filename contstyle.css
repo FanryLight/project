@@ -1,0 +1,178 @@
+#Body
+{
+	margin-top:20px;
+	width: 1050px;
+	min-height: 407px;
+	margin: center;
+	margin-left: auto;
+	margin-right:auto;
+	margin-bottom: 20px;
+	font-size:17px;
+	margin-top: 100px;
+	font-family: Sans;
+}
+#Menu
+{
+	width: 170px;
+	height: 175px;
+	background-color:   #AFEEEE;
+	margin: 30px 20px 0 20px;
+	border-radius:10px;
+	float: left;
+	
+}
+#Menu h3
+{
+	padding: 0;
+	margin: 5px;
+	padding-top: 7px;
+	font-weight: 500;
+	
+}
+#Menu li
+{
+	display: inline-block; 
+	padding:5px 0 0 15px;
+	line-height:20px;
+	width: 155px;
+}
+#Menu li:hover
+{
+	background-color:#F0FFFF;
+}
+
+#Menu a
+{
+	text-decoration:none;
+	color: #4169E0;
+}
+
+#cp
+{
+	width: 100%;
+	top: 0%;
+	left: 0%;
+	right: 0%;
+	height: 100px;
+	background-color:  #00BFFF;
+	position: absolute;
+}
+
+#textcp
+{
+	color: #fff;
+	font-size: 45px;
+	text-align: right;
+	margin: 20px;
+	margin-right: 170px;
+}
+
+#main
+{
+	width: 810px;
+	min-height:400px;
+	margin: 30px 20px 0 0px;
+	float: right;
+	color: #000;
+	margin-bottom: 40px;
+	
+}
+
+#Bodybuild
+{
+	background-color: #F8F8FF;
+}
+
+.table
+{
+	line-height:20px;
+	padding:5px;
+	border-bottom: 1px dotted black;
+	margin-bottom:10px;
+	padding-left: 15px;
+	display: block;
+}
+.table a
+{
+	text-decoration: none;
+	color: black;
+}
+#num_pages 
+{
+	margin-left: 40px;
+	height: 70px;
+}
+#num_pages a
+{
+	display: block;
+	float: left;
+	font-size: 20px;
+	font-family: ;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+	padding: 0px;
+	text-align:center;
+	line-height: 29px;
+	border: 2px solid black;
+	width: 30px;
+	height: 30px;
+	margin: 3px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	margin-top: 10px;
+}
+#num_pages a:hover
+{
+	color: #00BFFF;
+	border: 2px solid #00BFFF;
+}
+#num_pages #cur{
+	color: #B8B8B8 ;
+	border: 2px solid #B8B8B8 ;
+}
+
+.width
+{
+	width: 150px;
+}
+#textarea
+{
+	max-width:600px;
+	max-height: 400px;
+}
+
+#sort
+{
+	margin-top: 10px;
+	float: right;
+	margin-right: 30px;
+	display: block;
+}
+#article
+{
+	margin-top: 55px;
+}
+#panel
+{
+	line-height:20px;
+	padding:5px;
+	margin-bottom:10px;
+	padding-left: 15px;
+	display: block;
+	float: right;
+	
+}
+#del
+{
+	float: right;
+	margin-right: 70px;
+	margin-top: 5px;
+	display: block;
+	line-height:20px;
+	
+}
+
+
+
